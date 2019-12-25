@@ -1,163 +1,157 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+    "name": "Chand Shaikh",
+    "occupation": "Frontend Developer",
+    "description": "currently employed by Wideeye Technology pvt. ltd. Your Own Mortgage where I work as a frontend developer across the range of our products.",
+    "image": "profilepic.jpg",
+    "bio": "6+ months of experience as a UI/Front-End Developer with Startups (Mostly early stage with the team size of max 3 person in technology) and build up to 3+ products ( Web-based applications) in very tight timelines using multiple technologies.Involved in Design, Development and Product department time by time as per organization requirement to handle project End to End (understand the requirement, requirement gathering, propose solutions, build the software, testing and debugging, etc).The technologies which, I've used in my tenure are React.js, React Native, HTML5, CSS3,  JavaScript, JSON, Github, etc.I'm a self-motivated, quick learner, good team player, planning and development, relationship management, operations and good in time and logistics coordination and scheduling.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "shaikhchand724@gmail.com",
+    "phone": "+91 9823806191",
+    "address": {
+      "street": "Flat No 14, Bajirao Classic, Thergaon",
+      "city": "Pune",
+      "state": "Maharatra",
+      "zip": "411033"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
-    "social":[
+    "website": "https://www.linkedin.com/in/chand143/",
+    "resumedownload": "https://tinyurl.com/rxywqze",
+    "social": [
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://www.facebook.com/schand143",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "https://twitter.com/Schand143",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
+        "name": "google-plus",
+        "url": "http://googleplus.com/",
+        "className": "fa fa-google-plus"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/chand143",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "http://instagram.com/iam.s_chand",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"http://github.com/tbakerx",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/schand143",
+        "className": "fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+  "resume": {
+    "skillmessage": "'m a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over.",
+    "education": [
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Savitribai Phule Pune University",
+        "degree": "Bachelor of Computer Engineering",
+        "graduated": "June 2018",
+        "description": "Here I took my Bachelors of Computer Science with a Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Balaghat Polytechnic, Ahmedpur",
+        "degree": "Diploma",
+        "graduated": "March 2014",
+        "description": "Here I took my diploma of Information Technology.And Here I discovered programming and start learning from basic"
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Wideeye Technology Pvt. Ltd.",
+        "title": "Frontend Developer",
+        "years": "June 2019 - Present",
+        "description": "Working as full time front end developer. I have working in more than 5+ project in React.js, React Native within short period. "
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "KPIT Technology Pvt. Ltd",
+        "title": "Trainee Software Engineer ",
+        "years": "Oct 2018 - Feb 2019",
+        "description": "Worked as full time trainee software engineer 4-month Internship."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Git",
-        "level":"60%"
+        "name": "Git",
+        "level": "70%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name": "JavaScript",
+        "level": "65%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name": "ReactJs",
+        "level": "50%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "CSS",
+        "level": "90%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name": "HTML5",
+        "level": "80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name": "React Native",
+        "level": "50%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name": "MongoDB",
+        "level": "30%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Memory Game",
+        "category": "Its JavaScript Memory Game",
+        "image": "Memorygame.jpg",
+        "url": " https://schand143.github.io/Memory-Game/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Weather Application",
+        "category": "This web based app to find current weather",
+        "image": "WeatherApp.jpg",
+        "url": ""
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Portfolio",
+        "category": "This is a portfolio app",
+        "image": "portfolio.jpg",
+        "url": ""
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Pixel Art Maker",
+        "category": "This is simple pixel art drawer",
+        "image": "pixel.jpg",
+        "url": " https://schand143.github.io/PixelArtMaker/"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text": "Forget Fear, Do Something Different.",
+        "user": "Mahendra Singh Dhoni"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+        "user": "Edsger Dijkstra"
       }
     ]
   }
