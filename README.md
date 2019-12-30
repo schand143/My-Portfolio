@@ -2,7 +2,7 @@
 
 ![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
-### <a href="https://github.com/schand143/My-Portfolio/">LIVE DEMO</a>
+### <a href="https://schand143.github.io/My-Portfolio/">LIVE DEMO</a>
 
 ## Description
 
