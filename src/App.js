@@ -10,6 +10,7 @@ import Contact from "./Components/Contact";
 import Testimonials from "./Components/Testimonials";
 import Portfolio from "./Components/Portfolio";
 
+// json file import
 import resumeData from "./resumeData.json";
 
 class App extends Component
