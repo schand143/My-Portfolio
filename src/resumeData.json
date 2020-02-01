@@ -4,7 +4,7 @@
     "occupation": "Frontend Developer",
     "description": "currently employed by Wideeye Technology pvt. ltd. Your Own Mortgage where I work as a frontend developer across the range of our products.",
     "image": "profilepic.jpg",
-    "bio": "6+ months of experience as a UI/Front-End Developer with Startups (Mostly early stage with the team size of max 3 person in technology) and build up to 3+ products ( Web-based applications) in very tight timelines using multiple technologies.Involved in Design, Development and Product department time by time as per organization requirement to handle project End to End (understand the requirement, requirement gathering, propose solutions, build the software, testing and debugging, etc).The technologies which, I've used in my tenure are React.js, React Native, HTML5, CSS3,  JavaScript, JSON, Github, etc.I'm a self-motivated, quick learner, good team player, planning and development, relationship management, operations and good in time and logistics coordination and scheduling.",
+    "bio": "1+ months of experience as a UI/Front-End Developer with Startups (Mostly early stage with the team size of max 3 person in technology) and build up to 3+ products ( Web-based applications) in very tight timelines using multiple technologies.Involved in Design, Development and Product department time by time as per organization requirement to handle project End to End (understand the requirement, requirement gathering, propose solutions, build the software, testing and debugging, etc).The technologies which, I've used in my tenure are React.js, React Native, HTML5, CSS3,  JavaScript, JSON, Github, etc.I'm a self-motivated, quick learner, good team player, planning and development, relationship management, operations and good in time and logistics coordination and scheduling.",
     "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
     "email": "shaikhchand724@gmail.com",
     "phone": "+91 9823806191",
@@ -118,6 +118,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Photowall",
+        "category": "Add Photo in your wall",
+        "image": "Photowall.png",
+        "url": " https://schand143.github.io/Photowall/"
+      },
+      {
         "title": "Memory Game",
         "category": "Its JavaScript Memory Game",
         "image": "Memorygame.jpg",
@@ -127,7 +133,7 @@
         "title": "Weather Application",
         "category": "This web based app to find current weather",
         "image": "WeatherApp.jpg",
-        "url": ""
+        "url": "https://schand143.github.io/weather-app/"
       },
       {
         "title": "Portfolio",
