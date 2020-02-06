@@ -4,7 +4,7 @@
     "occupation": "Frontend Developer",
     "description": "currently employed by Wideeye Technology pvt. ltd. Your Own Mortgage where I work as a frontend developer across the range of our products.",
     "image": "profilepic.jpg",
-    "bio": "1+ months of experience as a UI/Front-End Developer with Startups (Mostly early stage with the team size of max 3 person in technology) and build up to 3+ products ( Web-based applications) in very tight timelines using multiple technologies.Involved in Design, Development and Product department time by time as per organization requirement to handle project End to End (understand the requirement, requirement gathering, propose solutions, build the software, testing and debugging, etc).The technologies which, I've used in my tenure are React.js, React Native, HTML5, CSS3,  JavaScript, JSON, Github, etc.I'm a self-motivated, quick learner, good team player, planning and development, relationship management, operations and good in time and logistics coordination and scheduling.",
+    "bio": "1+ years of experience as a UI/Front-End Developer with Startups (Mostly early stage with the team size of max 3 person in technology) and build up to 3+ products ( Web-based applications) in very tight timelines using multiple technologies.Involved in Design, Development and Product department time by time as per organization requirement to handle project End to End (understand the requirement, requirement gathering, propose solutions, build the software, testing and debugging, etc).The technologies which, I've used in my tenure are React.js, React Native, HTML5, CSS3,  JavaScript, JSON, Github, etc.I'm a self-motivated, quick learner, good team player, planning and development, relationship management, operations and good in time and logistics coordination and scheduling.",
     "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
     "email": "shaikhchand724@gmail.com",
     "phone": "+91 9823806191",
@@ -55,7 +55,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "'m a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over.",
+    "skillmessage": " I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over.",
     "education": [
       {
         "school": "Savitribai Phule Pune University",
@@ -68,6 +68,12 @@
         "degree": "Diploma",
         "graduated": "March 2014",
         "description": "Here I took my diploma of Information Technology.And Here I discovered programming and start learning from basic"
+      },
+      {
+        "school": "Udacity Front end Nanodegree Program",
+        "degree": "Nano-degree",
+        "graduated": "Feb 2020",
+        "description": "Here I took my Nano-degree Program. And Here I discovered programming and start learning from basic"
       }
     ],
     "work": [
@@ -91,11 +97,11 @@
       },
       {
         "name": "JavaScript",
-        "level": "65%"
+        "level": "85%"
       },
       {
         "name": "ReactJs",
-        "level": "50%"
+        "level": "75%"
       },
       {
         "name": "CSS",
@@ -107,7 +113,7 @@
       },
       {
         "name": "React Native",
-        "level": "50%"
+        "level": "650%"
       },
       {
         "name": "MongoDB",
@@ -124,6 +130,12 @@
         "url": " https://schand143.github.io/Photowall/"
       },
       {
+        "title": "To-do-List",
+        "category": "Add,Delete,Update Items",
+        "image": "todo.png",
+        "url": " https://schand143.github.io/todolist/"
+      },
+      {
         "title": "Memory Game",
         "category": "Its JavaScript Memory Game",
         "image": "Memorygame.jpg",
@@ -138,7 +150,7 @@
       {
         "title": "Portfolio",
         "category": "This is a portfolio app",
-        "image": "portfolio.jpg",
+        "image": "portfolio.png",
         "url": ""
       },
       {
