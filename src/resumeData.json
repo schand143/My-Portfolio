@@ -124,6 +124,18 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Student Tracking System",
+        "category": "Track student using BLE device with live location",
+        "image": "sts.png",
+        "url": ""
+      },
+      {
+        "title": "Employee Tracking System",
+        "category": "Track employee using BLE device and show indoor position",
+        "image": "ets.png",
+        "url": ""
+      },
+      {
         "title": "Photowall",
         "category": "Add Photo in your wall",
         "image": "Photowall.png",
