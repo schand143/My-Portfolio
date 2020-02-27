@@ -143,7 +143,7 @@
       },
       {
         "title": "Zomato data prediction",
-        "category": "Find zomato data analysis and predict restorant",
+        "category": "Find near by Zomato data analysis and predict restaurant rating",
         "image": "zomato.png",
         "url": " https://schand143.github.io/Photowall/"
       },
@@ -154,10 +154,16 @@
         "url": " https://schand143.github.io/todolist/"
       },
       {
+        "title": "Arcade Game",
+        "category": "A fun game to challenge you to dodge the bugs and reach the water stream to score points.",
+        "image": "arcadegame.png",
+        "url": " https://schand143.github.io/Memory-Game/"
+      },
+      {
         "title": "Memory Game",
         "category": "Its JavaScript Memory Game",
         "image": "Memorygame.jpg",
-        "url": " https://schand143.github.io/Memory-Game/"
+        "url": " https://schand143.github.io/frontend-nanodegree-arcade-game/"
       },
       {
         "title": "Weather Application",
@@ -169,7 +175,7 @@
         "title": "Portfolio",
         "category": "This is a portfolio app",
         "image": "portfolio.png",
-        "url": ""
+        "url": "https://schand143.github.io/My-Portfolio/"
       },
       {
         "title": "Pixel Art Maker",
