@@ -101,7 +101,7 @@
       },
       {
         "name": "ReactJs",
-        "level": "75%"
+        "level": "80%"
       },
       {
         "name": "CSS",
@@ -127,13 +127,13 @@
         "title": "Student Tracking System",
         "category": "Track student using BLE device with live location",
         "image": "sts.png",
-        "url": ""
+        "url": "https://sts.wideeye.io/"
       },
       {
         "title": "Employee Tracking System",
         "category": "Track employee using BLE device and show indoor position",
         "image": "ets.png",
-        "url": ""
+        "url": "https://ets-demo.wideeye.io/"
       },
       {
         "title": "Photowall",
@@ -145,7 +145,7 @@
         "title": "Zomato data prediction",
         "category": "Find near by Zomato data analysis and predict restaurant rating",
         "image": "zomato.png",
-        "url": " https://schand143.github.io/Photowall/"
+        "url": " "
       },
       {
         "title": "To-do-List",
@@ -182,6 +182,12 @@
         "category": "This is simple pixel art drawer",
         "image": "pixel.jpg",
         "url": " https://schand143.github.io/PixelArtMaker/"
+      },
+      {
+        "title": "Detect Web Browser",
+        "category": "This is simple web browser detect",
+        "image": "browser.png",
+        "url": " https://schand143.github.io/Housejoy-Solution/"
       }
     ]
   },
